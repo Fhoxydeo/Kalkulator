@@ -1,3 +1,6 @@
-html{
+body{
     font-family: Arial;
+    background-color: rgb(30, 30, 30);
+    color: white;
+    text-align: center;
 }
